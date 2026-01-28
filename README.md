@@ -41,11 +41,17 @@ pip install -r requirements.txt
 ## .env Specification
 
 SLACK_BOT_TOKEN=<your-slack-bot-token>
+
 SLACK_CHANNEL_ID=<your-slack-channel-id>
+
 GOOGLE_CLIENT_SECRET_FILE=credentials.json
+
 JIRA_URL=<your-jira-instance-url>
+
 JIRA_EMAIL=<your-jira-email>
+
 JIRA_API_TOKEN=<your-jira-api-token>
+
 JIRA_PROJECT_KEY=<jira-project-key>
 
 ## Run the workflow:
