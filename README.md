@@ -40,13 +40,9 @@ pip install -r requirements.txt
 
 ## .env Specification
 
-Slack
-
 SLACK_BOT_TOKEN=<your-slack-bot-token>
 SLACK_CHANNEL_ID=<your-slack-channel-id>
-
-Jira
-
+GOOGLE_CLIENT_SECRET_FILE=credentials.json
 JIRA_URL=<your-jira-instance-url>
 JIRA_EMAIL=<your-jira-email>
 JIRA_API_TOKEN=<your-jira-api-token>
