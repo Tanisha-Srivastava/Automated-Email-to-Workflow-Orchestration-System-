@@ -29,7 +29,7 @@ CALENDAR_TOKEN = "token_calendar.pickle"
 MAX_EMAIL_CHARS = 2000
 START_DATE_FIELD = "customfield_10015"
 
-SLACK_CHANNEL_ID = "C0A9HAUMWRF"
+SLACK_CHANNEL_ID = os.getenv("SLACK_CHANNEL_ID")
 slack_client = WebClient(token=os.getenv("SLACK_BOT_TOKEN"))
 
 # ===========================================================
@@ -605,4 +605,5 @@ if __name__ == "__main__":
 
 
             print("✅ Jira workflow done")
+
     print("🎯 Workflow finished")
