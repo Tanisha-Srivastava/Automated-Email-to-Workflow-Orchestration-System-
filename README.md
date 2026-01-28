@@ -52,5 +52,5 @@ JIRA_EMAIL=<your-jira-email>
 JIRA_API_TOKEN=<your-jira-api-token>
 JIRA_PROJECT_KEY=<jira-project-key>
 
-##Run the workflow:
+## Run the workflow:
 python integrated_agent.py
