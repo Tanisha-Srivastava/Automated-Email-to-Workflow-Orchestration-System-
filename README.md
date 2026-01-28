@@ -56,3 +56,6 @@ JIRA_PROJECT_KEY=<jira-project-key>
 
 ## Run the workflow:
 python integrated_agent.py
+
+
+## To run code for role assignment from meeting transcripts cd nlp-nlp-transcript
