@@ -1,0 +1,18 @@
+Riya: Hey everyone, good afternoon. Thanks for joining on time.
+Tanisha: Hope everyone’s doing well today.
+Tanisha: Let’s quickly go over the client demo feedback from yesterday.
+Tanisha: This part is just an update for awareness, not an action item.
+Tanisha: The client liked the overall concept, but mentioned that the navigation felt confusing, especially in a few sections.
+Surya: Yeah, I noticed that too, particularly on the reports page.
+Tanisha: Just an announcement for the entire team — this is only to keep everyone informed.
+Tanisha: Now, coming to actual next steps that need to be worked on.
+Surya: I will prepare two redesign options for the dashboard by Friday.
+Surabhi: Once Surya finalizes the redesign, I will update the frontend components.
+Surabhi: After the frontend changes, I will also fix responsiveness issues across different screen sizes.
+Tanisha: After both the redesign and frontend updates are ready, I will review everything internally.
+Tanisha: I’ll update the client after the internal review is completed.
+Tanisha: To close the loop, let’s schedule a follow-up meeting next Monday at 10 AM to discuss the final version together.
+Riya: That works for me.
+Surya: Same here.
+Surabhi: Works for me as well.
+Tanisha: Great, thanks everyone. Let’s sync again once this is done.

@@ -1,0 +1,9 @@
+Riya: Hey everyone, let’s get started.
+Tanisha: Based on today’s discussion, we need to address the dashboard issues.
+Surya: I will redesign the dashboard layout and share options by Thursday.
+Surabhi: Once Surya shares the redesign, I will update the frontend components.
+Surabhi: After that, I will fix the responsiveness issues across devices.
+Tanisha: After the frontend updates are complete, I will review everything.
+Tanisha: I’ll inform the client once the review is done.
+Riya: That sounds like a good plan.
+Tanisha: Thanks everyone.

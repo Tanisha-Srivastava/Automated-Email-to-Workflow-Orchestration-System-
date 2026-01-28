@@ -1,0 +1,13 @@
+Riya: Hey everyone, thanks for joining.
+Tanisha: Let’s quickly go over the client demo feedback from yesterday.
+Tanisha: The client demo feedback was not great.
+Surya: Yeah, the navigation flow confused them, especially on the reports page.
+Tanisha: Okay, we need to improve clarity before touching production.
+Surya: I will prepare two redesign options for the dashboard by Friday.
+Surabhi: Once Surya finalizes the redesign, I will update the frontend components.
+Surabhi: After the frontend changes, I will also fix responsiveness issues.
+Tanisha: Sounds good.
+Tanisha: After both the redesign and frontend updates are ready, I will review everything.
+Tanisha: I’ll update the client after the internal review.
+Tanisha: Let’s schedule a follow-up meeting next Monday at 10 AM to discuss the final version.
+Tanisha: Thanks everyone, let’s sync again once this is done.
